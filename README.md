@@ -1,7 +1,7 @@
 # Portfolio
 ## About Me
 Hi, I am Bibhav. I recently completed my Master's degree from Auburn University, AL. I am a self-motivated, experienced engineer that enjoys writing clean code, problem-solving, data structures, and algorithm design.
-## Recent Highlight -- [Featured on Military REACH Website] (https://militaryreach.auburn.edu/fnbibhavfinal.jsp)
+## Recent Highlight -- [Featured on Military REACH Website](https://militaryreach.auburn.edu/fnbibhavfinal.jsp)
 I worked as a Graduate Reaseacrh Assistant on Military REACH project at AU. Some of my accomplishments include designing the functionalities for the REACH Dictionary and incorporating Cascade, a content management tool, into the website.
 ## Projects
 ### Application Development
